@@ -51,7 +51,7 @@ namespace MassTransit.ActivityTracing
                     context.Headers.Set(Constants.TraceParentHeaderName, activity.Id);
                     if (activity.TraceStateString != null)
                     {
-                        context.Headers.Set(Constants.TraceParentHeaderName, activity.TraceStateString);
+                        context.Headers.Set(Constants.TraceStateHeaderName , activity.TraceStateString);
                     }
                 }
             }
