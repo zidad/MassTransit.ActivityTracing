@@ -3,7 +3,6 @@
 # MassTransit.ActivityTracing
 
 ![.NET Core](https://github.com/zidad/MassTransit.ActivityTracing/workflows/.NET%20Core/badge.svg)
-[![NuGet Status](http://nugetstatus.com/MassTransit.ActivityTracing.png)](http://nugetstatus.com/packages/MassTransit.ActivityTracing)
 
 MassTransit W3C activity tracing/propagation
 
