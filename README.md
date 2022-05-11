@@ -1,5 +1,4 @@
-**This library is no longer maintained, please use https://www.nuget.org/packages/OpenTelemetry.Instrumentation.MassTransit
-**
+**This library is no longer maintained, please use https://www.nuget.org/packages/OpenTelemetry.Instrumentation.MassTransit**
 
 # MassTransit.ActivityTracing
 
